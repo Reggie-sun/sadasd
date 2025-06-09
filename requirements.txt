@@ -1,7 +1,5 @@
-pandas
-streamlit
-pickle
-plotly
 numpy
-pickle
-scikit_learn
+pandas
+plotly
+streamlit
+scikit-learn
